@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Scala and R 
 - 💞️ I’m looking to collaborate on ML and AI related projects
-- 📫 Reach me through my Email: doncho.ap@gmail.com 
+- 📫 Reach me per Email: doncho.ap@gmail.com 
