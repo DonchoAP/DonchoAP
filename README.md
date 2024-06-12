@@ -1,4 +1,5 @@
 Doncho Panayotov
+
 About Me
 👋 I'm Doncho, a multilingual expert with over 3 years of industry experience, specializing in AI and Machine Learning.
 
