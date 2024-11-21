@@ -16,4 +16,4 @@ Contact Me
 📫 Email: doncho.ap@gmail.com
 📞 Phone: +491749720384
 
-If you're interested in collaborating on AI or ML projects, or want to learn more about my work, feel free to reach out!
+Achieve your goals faster collaborating with me on AI or ML projects, or want to learn more about my work, feel free to reach out!
